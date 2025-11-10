@@ -1,5 +1,6 @@
 
 # NoteVault 2.0
+---
 
 ![NoteVault_2.0](frontend/src/assets/NoteVault.png)
 ---
