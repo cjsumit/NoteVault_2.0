@@ -4,7 +4,7 @@
 ![NoteVault_2.0](frontend/src/assets/NoteVault.png)
 ---
 ## Disclaimer
-**NoteVault 2.0:** A secure, full-stack *MERN (MongoDB, Express, React, Node)* note-taking app. Upgraded from the static WebNote Vault, this project introduces a robust backend with user authentication to keep notes private. The React front-end provides a dynamic, responsive UI, while the Node.js/Express API and MongoDB database enable full CRUD (Create, Read, Update, Delete) functionality for persistent note management.
+**NoteVault 2.0** : A secure, full-stack *MERN (MongoDB, Express, React, Node)* note-taking app. Upgraded from the static WebNote Vault, this project introduces a robust backend with user authentication to keep notes private. The React front-end provides a dynamic, responsive UI, while the Node.js/Express API and MongoDB database enable full CRUD (Create, Read, Update, Delete) functionality for persistent note management.
 ---
 🔗 **Original Project:** [WebNote_Vault](https://github.com/cjsumit/WebNote_Vault)
 ---
@@ -16,10 +16,9 @@
 - MongoDB database support
 
 ## 🛠 Tech Stack
-**Frontend:** React  
-**Backend:** Node.js, Express  
-**Database:** MongoDB  
-**Authentication:** JSON Web Token (JWT)
+**Frontend** : React  
+**Backend** : Node.js, Express  
+**Database** : MongoDB
 ---
 ## 🔄 Comparison with WebNote Vault
 
