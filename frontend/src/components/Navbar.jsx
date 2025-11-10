@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import { BookOpen } from "lucide-react";
+import { NotebookPen } from 'lucide-react';
 
 function Navbar() {
   const location = useLocation();
@@ -9,9 +9,9 @@ function Navbar() {
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
-          <BookOpen className="w-7 h-7 text-blue-400" />
+          <NotebookPen className="w-7 h-7 text-blue-400" />
           <span className=" text-2xl text-blue-400 tracking-wide">
-            NoteKeeper
+            NoteVault 2.0
           </span>
         </Link>
 
